@@ -5,6 +5,8 @@ Ask a home buyer to describe their dream house, and they probably won't begin wi
 
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+
 # Feature Engineering and Analysis
 
 This project includes
